@@ -1,8 +1,8 @@
-# IES Fausti Barbera
+# 🏢 IES Fausti Barbera 🏢
 This is my github content, made by Rubén.
 
 
-## LIST OF TEACHERS
+## 🧑🏻‍🏫 LIST OF TEACHERS 🧑🏻‍🏫
 
 - **SERGIO LAGUNA OLMO:** ``Aplicaciones Web.``
 
@@ -23,6 +23,6 @@ This is my github content, made by Rubén.
 - **RAFAEL CASTAÑEDA LOMAS:** ``Sostenibilitat aplicada al sistema productiu.``
 
 
-### Dr. Fausti Barbera's highschool:
+### 🌟 Dr. Fausti Barbera's highschool: 🌟
 
 ![instituto](https://github.com/user-attachments/assets/04752ab7-2cde-49c3-af0e-a8cac499f9e4)
