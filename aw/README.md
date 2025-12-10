@@ -10,7 +10,7 @@
 
 ### 🌟 Description:
 
-- **In this subject, you will learn a lot about networks.
+- **In this subject, you will learn a lot about networks.**
 
 
 ### 📎 Link:
