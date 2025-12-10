@@ -1,5 +1,5 @@
 # IES Fausti Barbera
-This is my github content, made of Rubén.
+This is my github content, made by Rubén.
 
 
 ## LIST OF TEACHERS
